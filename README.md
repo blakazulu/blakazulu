@@ -14,7 +14,7 @@ Portfolio: [sbz-showcase.netlify.app](https://sbz-showcase.netlify.app) · Linke
 
 **[הדירה שלי / New Home Owner](https://new-home-owner.online)** - an AI dashboard for Israeli apartment buyers. Upload the contracts and payment documents and it builds the payment tracker, timeline and spec breakdown by itself, then answers questions over your own documents with the source cited. React 19, Firebase, Gemini, vector search.
 
-**[ScalpelPDF](https://github.com/blakazulu/ScalpelPDF)** - a Windows PDF editor on the [Microsoft Store](https://apps.microsoft.com/detail/9n9hn8xw4lf3). Edit, sign and merge, with no account and no subscription. GPLv3.
+**[ScalpelPDF](https://github.com/blakazulu/ScalpelPDF)** - a Windows PDF editor on the [Microsoft Store](https://apps.microsoft.com/detail/9n9hn8xw4lf3). Edit, sign and merge, with no account and no subscription. Fork of KillerPDF, GPLv3.
 
 ## Also here
 
